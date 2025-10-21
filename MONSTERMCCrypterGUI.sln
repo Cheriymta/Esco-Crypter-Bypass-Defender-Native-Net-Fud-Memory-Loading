@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{752625AD-22A6-47AD-B73D-750C320CF387}") = "MONSTERMCCrypterGUI", "NugetaCrypterGUI\MONSTERMCCrypterGUI.vbproj", "{BB0EE288-058B-482B-8F5D-095760319F57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB0EE288-058B-482B-8F5D-095760319F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0EE288-058B-482B-8F5D-095760319F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0EE288-058B-482B-8F5D-095760319F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0EE288-058B-482B-8F5D-095760319F57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {062548AD-DDCD-4C40-BC17-B7C9023EBD01}
+	EndGlobalSection
+EndGlobal
